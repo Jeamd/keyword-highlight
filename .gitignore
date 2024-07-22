@@ -1,0 +1,5 @@
+# dependenceies
+/node_modules
+
+# production
+/dist
