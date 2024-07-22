@@ -14,6 +14,14 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeamd/keyword-highlight.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jeamd/keyword-highlight/issues"
+  },
+  "homepage": "https://github.com/Jeamd/keyword-highlight",
   "author": "",
   "license": "ISC",
   "devDependencies": {
